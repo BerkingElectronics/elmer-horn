@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "elmer-horn": {
+      "command": "C:\\ElmerHorn\\connector\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\ElmerHorn\\connector\\server.py"],
+      "env": {
+        "HORN_WORKDIR": "C:\\ElmerHorn\\projekte",
+        "GMSH_EXE": "C:\\ElmerHorn\\gmsh\\gmsh.exe"
+      }
+    }
+  }
+}
